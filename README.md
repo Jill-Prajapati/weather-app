@@ -48,6 +48,10 @@ npm start
  - [OpenWeatherMap](https://openweathermap.org/) for providing the weather data.
  - [React](https://react.dev/) for building the app
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/9cbdc97c-379a-48ed-ba1f-189c02bb7f11)
+
+![image](https://github.com/user-attachments/assets/a2fcb9b2-1e6c-4ed3-918e-e307eb4b9fba)
 
 # Getting Started with Create React App
 
